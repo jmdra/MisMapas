@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mis Mapas</string>
+    <string name="ir_mapas">Ir a mis Mapas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="titulo_estadio">Estadio de Futbol</string>
+    <string name="snippet_estadio">Aqui juega el Celaya F.C.</string>
+    <string name="titulo_auditorio">Auditorio Tres Guerras</string>
+    <string name="snippet_auditorio">Auditorio Principal de la Ciudad de Celaya</string>
+    <string name="titulo_alameda">Alameda</string>
+    <string name="snippet_alameda">Parque Alameda de Celaya, Familiar</string>
+    <string name="titulo_centro">Centro</string>
+    <string name="snippet_centro">Centro de la Ciudad de Celaya</string>
+</resources>
